@@ -2,8 +2,7 @@
 
 ## Integrantes
 
-* Gustavo Andrade
-* (Adicionar demais integrantes, se houver)
+* Gustavo Andrade RM56
 
 ## Descrição do Projeto
 
