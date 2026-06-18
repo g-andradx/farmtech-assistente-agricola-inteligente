@@ -51,9 +51,7 @@ FarmTech-Solutions/
 │   └── analise_dados.ipynb
 │
 ├── src/
-│   ├── modelo_regressao.py
-│   ├── dashboard.py
-│   └── banco_dados.py
+│   ├── fase5cap1.py
 │
 ├── imagens/
 │   └── prints_dashboard
