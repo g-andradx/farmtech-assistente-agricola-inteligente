@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-* Gustavo Andrade RM56
+* Gustavo Andrade RM56102
 
 ## Descrição do Projeto
 
@@ -176,6 +176,7 @@ streamlit run dashboard.py
 O projeto demonstrou a aplicação prática de Inteligência Artificial no agronegócio, permitindo prever a produtividade agrícola e apoiar decisões relacionadas à irrigação e manejo do solo.
 
 ## Vídeo Demonstrativo
+https://youtu.be/qJ9Y2IWKEVw
 
 Inserir link do vídeo do YouTube aqui.
 
