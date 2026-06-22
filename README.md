@@ -177,9 +177,3 @@ O projeto demonstrou a aplicação prática de Inteligência Artificial no agron
 
 ## Vídeo Demonstrativo
 https://youtu.be/qJ9Y2IWKEVw
-
-Inserir link do vídeo do YouTube aqui.
-
-## GitHub
-
-Inserir link do repositório aqui.
